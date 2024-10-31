@@ -4,6 +4,8 @@
 ## 🚀 About Me
 #### I'm a budding developer and is learning and trying to advance in different languages (and find the suitable)
 
+<img  src="https://komarev.com/ghpvc/?username=Krin58&label=Profile%20views&color=0e75b6&style=flat" alt="Krin58"  align="center"/>
+
 <div  align="center">
   
 | 🛠 Skills| Level | 
@@ -16,6 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,windows,arch)](https://skillicons.dev)
 
 </div>
+
 ## Badges
 
 ### Hacktoberfest Badges

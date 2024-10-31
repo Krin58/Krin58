@@ -4,6 +4,8 @@
 ## 🚀 About Me
 #### I'm a budding developer and is learning and trying to advance in different languages (and find the suitable)
 
+<div  align="center">
+  
 | 🛠 Skills| Level | 
 | :-------- | :------- |
 | [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)|Normal|
@@ -13,6 +15,7 @@
 | :-------- |  
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,windows,arch)](https://skillicons.dev)
 
+</div>
 ## Badges
 
 ### Hacktoberfest Badges

@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-#### I'm a budding developer and is learning and trying to advance in different languages (and find the suitable)
+#### I'm a budding developer who is learning and trying to advance in different languages (to find the suitable)
 
 <div  align="center">
 

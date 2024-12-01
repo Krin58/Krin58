@@ -21,6 +21,10 @@
 
 ## Badges
 
+### Tryhackme Badges
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Krin58.png" alt="Your Image Badge" />
+
 ### Hacktoberfest Badges
 
 [![An image of @krin58's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krin58)](https://holopin.io/@krin58)

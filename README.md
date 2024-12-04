@@ -43,7 +43,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)</br>
 
 ### Tryhackme Badges
-<img src="https://tryhackme-badges.s3.amazonaws.com/Krin58.png" alt="Your Image Badge" />
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Krin58.png)](https://tryhackme.com/p/Krin58)
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)</br>

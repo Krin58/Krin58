@@ -1,8 +1,7 @@
 <div align="center">
-<h2 style="text-align: center; color: #0074D9;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0074D9&random=false&width=435&lines=Hi There%2C+I'm+Krish+V+👋" alt="Typing SVG" />
-</h2>
-  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=30&pause=1000&color=07F700&background=FFFFFF00&center=true&width=450&lines=Hi+There+I'm+Krin58+%F0%9F%91%8B;A+Budding+Developer;A+Basic+Back-end+Developer;Learning+Front-end" alt="Typing SVG" /></a>
+
+</div>
 #### Ready to learn any new technology
   
 [![-----------------------------------------------------](

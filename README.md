@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 # My TryHackMe Badge
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=218405" style="border:none;" width="100%" height="200"></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Krin58.png" alt="Your Image Badge" />
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)</br>
